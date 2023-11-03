@@ -1,0 +1,32 @@
+.navbar{
+    display: flex;
+    background-image: linear-gradient(to right, rgba(39, 39, 68, 0.24), rgb(0, 0, 104));
+    justify-content: flex-end;
+    color: white;
+}
+
+#navbarText{
+    margin-right: 40rem;
+}
+
+.search{
+    display: flex;
+    flex-direction: column;
+    width: 20rem;
+}
+#button{
+    margin-top: 5px;
+    padding: 3px;
+}
+.main{
+    border: solid;
+    width: 1000px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.main-card{
+    margin-left: .5rem;
+}
+section{
+    display: flex;
+}
